@@ -344,28 +344,10 @@ hr {
       .tile.tile-729 .tile-inner {
         font-size: 0px; } }
   .tile.tile-2187 .tile-inner {
-    color: #f9f6f2;
-    background: url('../tile-sets/signs/2187.jpg');
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    font-size: 0px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-2187 .tile-inner {
-        font-size: 0px; } }
+   background: url('../tile-sets/signs/2187.jpg'); }
+
   .tile.tile-6561 .tile-inner {
-    color: #f9f6f2;
-    background: url('../tile-sets/signs/6561.jpg');
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    font-size: 0px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-6561 .tile-inner {
-        font-size: 0px; } }
-  .tile.tile-super .tile-inner {
-    color: #f9f6f2;
-    background: #3c3a32;
-    font-size: 30px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-super .tile-inner {
-        font-size: 10px; } }
+    background: url('../tile-sets/signs/6561.jpg'); }
 
 @-webkit-keyframes appear {
   0% {
